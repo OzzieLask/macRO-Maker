@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024">
+  <!-- Redrawn from macromaker.png at matching proportions; source for `npm run tauri icon`. -->
+  <rect width="1024" height="1024" rx="150" fill="#F2C14E"/>
+  <path d="M512 291v442M291 512h442" stroke="#121215" stroke-width="148" stroke-linecap="round"/>
+</svg>
